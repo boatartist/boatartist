@@ -7,4 +7,5 @@ I'm currently working on [my Raspberry Pi-based robot bird phone](https://github
 Some other projects on this page include my Year 10 Personal Project [Tori Tortoise](https://github.com/boatartist/Tori-Tortoise), powered by an Arduino Uno, which I made from scratch including wiring, code and CAD and was featured in my school's newsletter.
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=boatartist&show_icons=true&locale=en&layout=compact&theme=light" alt="ovi" />
+<img src="https://github-readme-stats.vercel.app/api?username=boatartist&theme=buefy&show_icons=true" alt="My stats from github" data-canonical-src="https://github-readme-stats.vercel.app/api?username=boatartist&amp;theme=buefy&amp;show_icons=true" style="height: 200px;">
 <img src="https://github-profile-trophy.vercel.app/?username=boatartist&no-bg=true" />
