@@ -1,4 +1,5 @@
 ## Hello! Welcome to my github!
+[![GitHub followers](https://img.shields.io/github/followers/boatartist?style=social)](https://github.com/boatartist) 
 
 I'm Arabella, a final year high school student passionate about robotics, python and open-source experimentation. I haven't got many projects on here at the moment, but check out my repositories which I'm constantly updating. I'm commited to documenting my work and making it as simple and effective as possible, so that hopefully I can inspire others to follow along if I get more views, feel free to follow to track my progress.
 
@@ -9,11 +10,11 @@ Some other projects on this page include my Year 10 Personal Project [Tori Torto
 ### Things I can do:
 Python things:
 
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python) ![Flask](https://img.shields.io/badge/-Flask-333333?style=flat&logo=flask) ![Selenium](https://img.shields.io/badge/-Selenium-333333?style=flat&logo=selenium) ![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-333333?style=flat&logo=sqlalchemy) ![Pygame](https://img.shields.io/badge/-Pygame-333333?style=flat&logo=pygame) ![Requests](https://img.shields.io/badge/-Requests-333333?style=flat&logo=requests)
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python) ![Flask](https://img.shields.io/badge/-Flask-333333?style=flat&logo=flask) ![Selenium](https://img.shields.io/badge/-Selenium-333333?style=flat&logo=selenium) ![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-333333?style=flat&logo=sqlalchemy) ![Pygame](https://img.shields.io/badge/-Pygame-333333?style=flat&logo=pygame) ![Requests](https://img.shields.io/badge/-Requests-333333?style=flat&logo=requests)  ![PIL](https://img.shields.io/badge/-PIL-333333?style=flat&logo=pil) 
 
 Software:
 
-![Solidworks](https://img.shields.io/badge/-Solidworks-333333?style=flat&logo=dassaultsystemes) ![Blender](https://img.shields.io/badge/-Blender-333333?style=flat&logo=blender) ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github) ![Replit](https://img.shields.io/badge/-Replit-333333?style=flat&logo=replit)
+![Solidworks](https://img.shields.io/badge/-Solidworks-333333?style=flat&logo=dassaultsystemes) ![Blender](https://img.shields.io/badge/-Blender-333333?style=flat&logo=blender) ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github) ![Replit](https://img.shields.io/badge/-Replit-333333?style=flat&logo=replit)  ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma) 
 
 Other languages:
 
@@ -21,7 +22,7 @@ Other languages:
 
 Microcontrollers/robotics:
 
-![Arduino](https://img.shields.io/badge/-Arduino-333333?style=flat&logo=arduino) ![Micro:bit](https://img.shields.io/badge/-Microbit-333333?style=flat&logo=microbit)  ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-333333?style=flat&logo=raspberrypi) 
+![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-333333?style=flat&logo=raspberrypi) ![Arduino](https://img.shields.io/badge/-Arduino-333333?style=flat&logo=arduino) ![Micro:bit](https://img.shields.io/badge/-Microbit-333333?style=flat&logo=microbit)  ![ATTiny85](https://img.shields.io/badge/-ATTiny85-333333?style=flat&logo=attiny85) 
  
 Other skills:
  
