@@ -1,7 +1,7 @@
 ## Hello! Welcome to my github!
 [![GitHub followers](https://img.shields.io/github/followers/boatartist?style=social)](https://github.com/boatartist) 
 
-I'm Arabella, a final year high school student passionate about robotics, python and open-source experimentation. I haven't got many projects on here at the moment, but check out my repositories which I'm constantly updating. I'm commited to documenting my work and making it as simple and effective as possible, so that hopefully I can inspire others to follow along if I get more views, feel free to follow to track my progress.
+I'm Arabella, a final year high school student passionate about robotics, python and open-source experimentation. I haven't got many projects on here at the moment, but check out my repositories which I'm constantly updating. I'm commited to documenting my work and making it as simple and effective as possible, so that hopefully I can inspire others to follow along if I get more views, feel free to follow to track my progress. At school I'm topping Software Engineering and Engineering Studies, and I also study Physics and Maths Extension 2 for my HSC.
 
 I'm currently working on [my Raspberry Pi-based robot bird phone](https://github.com/boatartist/Robo-spy-pigeon-phone)🦜🤖📱, which is my biggest project yet, so I'd love if anyone checking out the page could let me know, I'm always open for advice, collaboration requests and really any interactions. It's a bit of a mess, but I'm trying to log *everything* I do, so that I can come back and polish it up later into a tutorial so that anyone can copy and improve my design. This project is being presented at PyConAU 2025 in the Education Showcase on the 12th of September, I'll put up a link when it becomes available.
 
