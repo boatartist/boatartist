@@ -6,6 +6,26 @@ I'm currently working on [my Raspberry Pi-based robot bird phone](https://github
 
 Some other projects on this page include my Year 10 Personal Project [Tori Tortoise](https://github.com/boatartist/Tori-Tortoise), powered by an Arduino Uno, which I made from scratch including wiring, code and CAD and was featured in my school's newsletter.
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=boatartist&show_icons=true&locale=en&layout=compact&theme=light" alt="ovi" />
-<img src="https://github-readme-stats.vercel.app/api?username=boatartist&theme=buefy&show_icons=true" alt="My stats from github" data-canonical-src="https://github-readme-stats.vercel.app/api?username=boatartist&amp;theme=buefy&amp;show_icons=true" style="height: 200px;">
+### Things I can do:
+Python things:
+
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python) ![Flask](https://img.shields.io/badge/-Flask-333333?style=flat&logo=flask) ![Selenium](https://img.shields.io/badge/-Selenium-333333?style=flat&logo=selenium) ![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-333333?style=flat&logo=sqlalchemy) ![Pygame](https://img.shields.io/badge/-Pygame-333333?style=flat&logo=pygame) ![Requests](https://img.shields.io/badge/-Requests-333333?style=flat&logo=requests)
+
+Software:
+
+![Solidworks](https://img.shields.io/badge/-Solidworks-333333?style=flat&logo=dassaultsystemes) ![Blender](https://img.shields.io/badge/-Blender-333333?style=flat&logo=blender)
+
+Other languages:
+
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5) ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS&logoColor=1572B6) ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript) ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github) ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown) ![Scratch](https://img.shields.io/badge/-Scratch-333333?style=flat&logo=scratch) ![Jinja2](https://img.shields.io/badge/-Jinja2-333333?style=flat&logo=jinja)
+
+Microcontrollers/robotics:
+
+![Arduino](https://img.shields.io/badge/-Arduino-333333?style=flat&logo=arduino) ![Micro:bit](https://img.shields.io/badge/-Microbit-333333?style=flat&logo=microbit)  ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-333333?style=flat&logo=raspberrypi) 
+ 
+Other skills:
+ 
+![EasyEDA](https://img.shields.io/badge/-EasyEDA-333333?style=flat&logo=easyeda)  ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux) 
+
+<img src="https://github-readme-stats.vercel.app/api?username=boatartist&theme=buefy&show_icons=true" alt="My stats from github" data-canonical-src="https://github-readme-stats.vercel.app/api?username=boatartist&amp;theme=buefy&amp;show_icons=true" style="height: 200px;"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=boatartist&show_icons=true&locale=en&layout=compact&theme=light" alt="ovi" /> 
 <img src="https://github-profile-trophy.vercel.app/?username=boatartist&no-bg=true" />
