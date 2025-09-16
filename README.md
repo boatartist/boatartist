@@ -3,9 +3,11 @@
 
 I'm Arabella, a final year high school student passionate about robotics, python and open-source experimentation. I haven't got many projects on here at the moment, but check out my repositories which I'm constantly updating. I'm commited to documenting my work and making it as simple and effective as possible, so that hopefully I can inspire others to follow along if I get more views, feel free to follow to track my progress.
 
-I'm currently working on [my Raspberry Pi-based robot bird phone](https://github.com/boatartist/Robo-spy-pigeon-phone)🪿🤖📱, which is my biggest project yet, so I'd love if anyone checking out the page could let me know, I'm always open for advice, collaboration requests and really any interactions. It's a bit of a mess, but I'm trying to log *everything* I do, so that I can come back and polish it up later into a tutorial so that anyone can copy and improve my design. This project is being presented at PyConAU 2025 in the Education Showcase on the 12th of September, I'll put up a link when it becomes available.
+I'm currently working on [my Raspberry Pi-based robot bird phone](https://github.com/boatartist/Robo-spy-pigeon-phone)🦜🤖📱, which is my biggest project yet, so I'd love if anyone checking out the page could let me know, I'm always open for advice, collaboration requests and really any interactions. It's a bit of a mess, but I'm trying to log *everything* I do, so that I can come back and polish it up later into a tutorial so that anyone can copy and improve my design. This project is being presented at PyConAU 2025 in the Education Showcase on the 12th of September, I'll put up a link when it becomes available.
 
 Some other projects on this page include my Year 10 Personal Project [Tori Tortoise](https://github.com/boatartist/Tori-Tortoise), powered by an Arduino Uno, which I made from scratch including wiring, code and CAD and was featured in my school's newsletter.
+
+I'm also a keen rower 🚣‍♀️ and avid reader📕, and have the cutest dog ever 🐶, Sally!
 
 ### Things I can do:
 Python things:
@@ -14,7 +16,7 @@ Python things:
 
 Software:
 
-![Solidworks](https://img.shields.io/badge/-Solidworks-333333?style=flat&logo=dassaultsystemes) ![Blender](https://img.shields.io/badge/-Blender-333333?style=flat&logo=blender) ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github) ![Replit](https://img.shields.io/badge/-Replit-333333?style=flat&logo=replit)  ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma) 
+![Solidworks](https://img.shields.io/badge/-Solidworks-333333?style=flat&logo=dassaultsystemes) ![Blender](https://img.shields.io/badge/-Blender-333333?style=flat&logo=blender) ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github) ![Replit](https://img.shields.io/badge/-Replit-333333?style=flat&logo=replit)  ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma) ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=photoshop) ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=illustrator) ![Imovie](https://img.shields.io/badge/-imovie-333333?style=flat&logo=imovie) 
 
 Other languages:
 
