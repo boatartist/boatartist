@@ -13,11 +13,11 @@ Python things:
 
 Software:
 
-![Solidworks](https://img.shields.io/badge/-Solidworks-333333?style=flat&logo=dassaultsystemes) ![Blender](https://img.shields.io/badge/-Blender-333333?style=flat&logo=blender)
+![Solidworks](https://img.shields.io/badge/-Solidworks-333333?style=flat&logo=dassaultsystemes) ![Blender](https://img.shields.io/badge/-Blender-333333?style=flat&logo=blender) ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github) ![Replit](https://img.shields.io/badge/-Replit-333333?style=flat&logo=replit)
 
 Other languages:
 
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5) ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS&logoColor=1572B6) ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript) ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github) ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown) ![Scratch](https://img.shields.io/badge/-Scratch-333333?style=flat&logo=scratch) ![Jinja2](https://img.shields.io/badge/-Jinja2-333333?style=flat&logo=jinja)
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5) ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS&logoColor=1572B6) ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript) ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown) ![Scratch](https://img.shields.io/badge/-Scratch-333333?style=flat&logo=scratch) ![Jinja2](https://img.shields.io/badge/-Jinja2-333333?style=flat&logo=jinja)
 
 Microcontrollers/robotics:
 
@@ -25,7 +25,7 @@ Microcontrollers/robotics:
  
 Other skills:
  
-![EasyEDA](https://img.shields.io/badge/-EasyEDA-333333?style=flat&logo=easyeda)  ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux) 
+![EasyEDA](https://img.shields.io/badge/-EasyEDA-333333?style=flat&logo=easyeda)  ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
 
 <img src="https://github-readme-stats.vercel.app/api?username=boatartist&theme=buefy&show_icons=true" alt="My stats from github" data-canonical-src="https://github-readme-stats.vercel.app/api?username=boatartist&amp;theme=buefy&amp;show_icons=true" style="height: 200px;"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=boatartist&show_icons=true&locale=en&layout=compact&theme=light" alt="ovi" /> 
 <img src="https://github-profile-trophy.vercel.app/?username=boatartist&no-bg=true" />
