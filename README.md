@@ -7,7 +7,9 @@ I'm currently working on [my Raspberry Pi-based robot bird phone](https://github
 
 Some other projects on this page include my Year 10 Personal Project [Tori Tortoise](https://github.com/boatartist/Tori-Tortoise), powered by an Arduino Uno, which I made from scratch including wiring, code and CAD and was featured in my school's newsletter.
 
-I'm also a keen rower 🚣‍♀️ and avid reader📕, and have the cutest dog ever 🐶, Sally!
+I'm also a keen rower 🚣‍♀️ and avid reader📕, and have the cutest dog ever 🐶, Sally! 
+
+[My Portfolio](https://boatartist.github.io/portfolio/) (still a WIP)
 
 ### Things I can do:
 Python things:
