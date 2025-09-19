@@ -9,7 +9,7 @@ Some other projects on this page include my Year 10 Personal Project [Tori Torto
 
 I'm also a keen rower 🚣‍♀️ and avid reader📕, and have the cutest dog ever 🐶, Sally! 
 
-[My Portfolio](https://boatartist.github.io/portfolio/) (still a WIP)
+[My Portfolio!](https://boatartist.github.io/portfolio/)
 
 ### Things I can do:
 Python things:
