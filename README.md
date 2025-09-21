@@ -18,7 +18,7 @@ Python things:
 
 Software:
 
-![Solidworks](https://img.shields.io/badge/-Solidworks-333333?style=flat&logo=dassaultsystemes) ![Blender](https://img.shields.io/badge/-Blender-333333?style=flat&logo=blender) ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github) ![Replit](https://img.shields.io/badge/-Replit-333333?style=flat&logo=replit)  ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma) ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=photoshop) ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=illustrator) ![Imovie](https://img.shields.io/badge/-imovie-333333?style=flat&logo=imovie) 
+![Solidworks](https://img.shields.io/badge/-Solidworks-333333?style=flat&logo=dassaultsystemes) ![Blender](https://img.shields.io/badge/-Blender-333333?style=flat&logo=blender) ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github) ![Replit](https://img.shields.io/badge/-Replit-333333?style=flat&logo=replit)  ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma) ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=photoshop) ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=illustrator) ![Imovie](https://img.shields.io/badge/-Imovie-333333?style=flat&logo=imovie) ![Edstem](https://img.shields.io/badge/-Edstem-333333?style=flat&logo=edstem) 
 
 Other languages:
 
